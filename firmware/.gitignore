@@ -1,0 +1,19 @@
+CM7/Debug/
+CM7/build/
+
+CM4/Debug/
+CM4/build/
+
+/build/
+
+.metadata/
+
+Drivers/.DS_Store
+
+Middlewares/.DS_Store
+
+.DS_Store
+
+Old codebase
+
+python_scripts/__pycache__

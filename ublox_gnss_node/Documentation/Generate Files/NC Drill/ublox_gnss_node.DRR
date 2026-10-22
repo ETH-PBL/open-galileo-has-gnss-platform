@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ublox_gnss_node.PcbDoc   14/05/2026  21:25:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer (HSig) to Bottom Layer (Y)
+ASCII RoundHoles File : ublox_gnss_node-RoundHoles.TXT
+ASCII SlotHoles File : ublox_gnss_node-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             969       PTH        2544.69mm (100.18inch)
+T2      0.3mm (12mil)                                             Round             35        PTH        221.21mm (8.71inch)
+T3      0.4mm (16mil)                                             Round             8         PTH        114.94mm (4.53inch)
+T4      0.5mm (20mil)                                             Round             13        PTH        134.58mm (5.30inch)
+T5      0.6mm (24mil)                                             Slot              8         PTH        93.07mm (3.66inch)
+T6      1.3mm (51mil)                                             Round             4         PTH        10.61mm (0.42inch)
+T7      5.5mm (217mil)                                            Round             2         PTH        95.00mm (3.74inch)
+T8      0.65mm (26mil)                                            Round             4         NPTH       22.78mm (0.90inch)
+T9      0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T10     1.4mm (55mil)                                             Round             2         NPTH       23.20mm (0.91inch)
+T11     2.1mm (83mil)                                             Round             2         NPTH       15.00mm (0.59inch)
+T12     2.85mm (112mil)                                           Round             2         NPTH       15.00mm (0.59inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1052
+
+Total Processing Time (hh:mm:ss) : 00:00:00

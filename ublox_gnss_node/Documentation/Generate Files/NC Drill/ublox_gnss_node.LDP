@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ciril\Desktop\Bachelor_Thesis_repo\ciril_clerc_642\ublox_gnss_node\ublox_gnss_node.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ublox_gnss_node-roundholes.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ublox_gnss_node-slotholes.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl

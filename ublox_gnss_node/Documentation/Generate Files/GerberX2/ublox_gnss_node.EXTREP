@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ublox_gnss_node.GBR   14/05/2026  21:25:25
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer (HSig)                        
+.gbr                L2 GND                                  
+.gbr                L3 Signal X                             
+.gbr                L4 PWR                                  
+.gbr                L5 GND                                  
+.gbr                Bottom Layer (Y)                        
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

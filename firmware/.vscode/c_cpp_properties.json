@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "STM32_CM4",
+            "compileCommands": "${workspaceFolder}/CM4/build/compile_commands.json",
+            "includePath": [
+                "${workspaceFolder}/CM4/Components/GNSS/**",
+                "${workspaceFolder}/CM4/Components/SENS/**",
+                "${workspaceFolder}/CM4/Components/MikroBus/**"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "STM32_CM7",
+            "compileCommands": "${workspaceFolder}/CM7/build/compile_commands.json",
+            "includePath": [
+                "${workspaceFolder}/CM7/Components/USB/**",
+                "${workspaceFolder}/CM7/Components/ETH/**"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
